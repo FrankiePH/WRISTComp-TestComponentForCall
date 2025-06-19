@@ -155,6 +155,18 @@
                       "derivedFrom": "wristcomp_core_information_standard_alerts.alerts_record_entry.person_completing_record.name@43fbda79d0c88ad1bf1674a4276046b312dab647"
                     },
                     {
+                      "name": "New Item",
+                      "mro": "M",
+                      "description": "",
+                      "valueSets": "",
+                      "implamentationGuidance": "",
+                      "informationType": "Record",
+                      "type": "item",
+                      "minimumMultiplicity": "0",
+                      "maximumMultiplicity": "1",
+                      "concept": []
+                    },
+                    {
                       "description": "The grade of the person completing the record.",
                       "maximumMultiplicity": "1",
                       "minimumMultiplicity": "0",
